@@ -15,7 +15,7 @@ li[data-RobotOwner="Koji Kabuto"]{
     background-color: olive;
     color: white;
 }
-.toggle:checked ~ .checked{
+.toggle:checked + .checked{
     background-color: red;
 }
 .checked{
