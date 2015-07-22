@@ -11,3 +11,7 @@ h1 {
     color: blue;
     font-size:30px;
 }
+li[data-RobotOwner="Koji Kabuto"]{
+    background-color: olive;
+    color: white;
+}
